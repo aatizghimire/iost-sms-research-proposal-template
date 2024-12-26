@@ -40,3 +40,8 @@ This repository contains a comprehensive **LaTeX template** for writing research
    - `references.bib`: A sample bibliography file.
    - `assets/`: A folder for images (e.g., tu logo, sample figures).
    - `README.md`: The repository description.
+
+```
+Imporant:
+Use Pdflatex for compiler!
+````
