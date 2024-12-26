@@ -28,7 +28,7 @@ This repository contains a comprehensive **LaTeX template** for writing research
 
 **Clone the Repository**:
    ```bash
-   git clone https://github.com/aatizghimire/research-proposal-template.git
+   git clone https://github.com/aatizghimire/iost-sms-research-proposal-template.git
    cd research-proposal-template
 ```
 
